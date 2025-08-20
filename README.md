@@ -36,7 +36,7 @@ For each language, the following metrics are reported:
   - WER
 
 ## Requirements
-See [Requirements.docx](Requirements.docx) or `requirements.txt` for dependencies.
+See `requirements.txt` for dependencies.
 
 Quick install:
 ```bash
