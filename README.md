@@ -1,4 +1,4 @@
-# SeamlessM4T × FLEURS Evaluation Pipeline
+## SeamlessM4T × FLEURS Evaluation Pipeline
 
 ## Overview
 This project provides a complete evaluation pipeline for testing **Meta’s SeamlessM4T-v2 model** on the **FLEURS dataset** for multiple Indian languages.  
