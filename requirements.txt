@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchaudio
+pandas
+datasets
+sacrebleu
+jiwer
+transformers
+git+https://github.com/facebookresearch/seamless_communication.git
